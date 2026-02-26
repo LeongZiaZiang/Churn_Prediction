@@ -36,6 +36,7 @@ Business assumptions:
 - Retention success rate: 30%
 
 Results:
+
 | Model |	Optimal targeting % |	Probability cutoff |	Maximum profit |
 | Logistic Regression |	22.7% |	0.606 |	143,022 |
 | XGBoost |	38.0% |	0.566 |	291,117 |
