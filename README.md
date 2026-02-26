@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project develops and evaluates machine learning models to predict customer churn and optimize retention campaign profitability using profit-driven threshold selection. Data source is obtained from [Kaggle]([https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn](https://www.kaggle.com/datasets/ilya2raev/bank-churn-dataset)).
+This project develops and evaluates machine learning models to predict customer churn and optimize retention campaign profitability using profit-driven threshold selection. Data source is obtained from [Kaggle](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn](https://www.kaggle.com/datasets/ilya2raev/bank-churn-dataset).
 
 ## Models Implemented
 
