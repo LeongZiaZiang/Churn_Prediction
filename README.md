@@ -11,14 +11,7 @@ Dataset source: [Kaggle — Bank Churn Dataset](https://www.kaggle.com/datasets/
 ```
 ├── Churn_Prediction.ipynb             # Full analysis notebook
 ├── api.py                             # FastAPI serving endpoint
-├── requirements.txt                   # Dependencies
-└── models/                            # Serialised pipelines (generated after running notebook)
-    ├── logistic_regression_pipeline.joblib
-    ├── random_forest_pipeline.joblib
-    ├── lightgbm_pipeline.joblib
-    ├── xgboost_pipeline.joblib
-    ├── stacking_ensemble_pipeline.joblib
-    └── metadata.joblib
+└── requirements.txt                   # Dependencies
 ```
 
 ---
