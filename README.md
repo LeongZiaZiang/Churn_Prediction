@@ -21,7 +21,7 @@ Dataset source: [Kaggle — Bank Churn Dataset](https://www.kaggle.com/datasets/
 ### 1. Data Preprocessing
 - Removed 1,151 duplicate rows
 - Outlier treatment: dropped 3 rows with invalid scoring (>1.0), capped income at 200,000 RUB
-- Missing values handled via median/mode imputation inside sklearn Pipeline (fit on train only)
+- Missing values handled via median/mode imputation inside sklearn Pipeline.
 
 ### 2. Feature Engineering
 7 domain-driven features derived from raw columns:
