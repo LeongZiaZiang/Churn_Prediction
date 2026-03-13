@@ -4,14 +4,11 @@ A production-level machine learning project that predicts customer churn for a R
 
 Dataset source: [Kaggle — Bank Churn Dataset](https://www.kaggle.com/datasets/ilya2raev/bank-churn-dataset)
 
-LinkedIn: [leongziaziang](https://www.linkedin.com/in/leongziaziang)
-
 ---
 
 ## Project Structure
 
 ```
-├── Churn.csv                          # Raw dataset
 ├── Churn_Prediction.ipynb             # Full analysis notebook
 ├── api.py                             # FastAPI serving endpoint
 ├── requirements.txt                   # Dependencies
